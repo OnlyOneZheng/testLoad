@@ -9,6 +9,9 @@ public class Main {
      */
 
     public static void main(String[] args) {
+        /*
+        第二次修改
+         */
 
         String str="http://media.febcchinese.org/streaming/vfs/mavdp001.mp3";
         String substring2 = str.substring(0, str.length() - 4);
